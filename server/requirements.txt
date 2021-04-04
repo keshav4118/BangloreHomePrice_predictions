@@ -1,0 +1,8 @@
+Flask==1.1.2
+json5==0.9.5
+numpy==1.18.5
+pandas==1.1.4
+pyforest==1.0.3
+scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+scipy @ file:///C:/ci/scipy_1592916963468/work
+sklearn==0.0
